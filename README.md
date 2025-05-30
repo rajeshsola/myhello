@@ -1,4 +1,3 @@
-```
 # Level-1 Heading
 
 ## Level-2 Heading
@@ -30,4 +29,3 @@ Some Numbered Points
 
 [Click Here](https://gitam.edu)
 
-```
